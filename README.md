@@ -1,12 +1,12 @@
-# Mixnet and ACN research
+# Anonymous Communications Research References
 
-This is a collection of research material related to Mixnets and Anonymous Communication Networks (ACN) that is a part of a wider effort of research for a default transaction building method for [Grin](https://grin-tech.org). The list is non-exhaustive, focuses on recent advances that are relevant in the context of Grin, and doesn't include more classical work.
+This is a collection of research material related to Anonymous Communications research.
 
-🔥: Recommended in particular in our context
+Most interesting papers in this list and some of their references will be eventually added to the [bibliography](anonymous-communications.bib).
 
 ### Library resources
 
-* [Freehaven Anonymity Bibliography](https://www.freehaven.net/anonbib/full/topic.html)
+* 🔥[Freehaven Anonymity Bibliography](https://www.freehaven.net/anonbib/full/topic.html)
 * [Katzenpost Mixnet Academy](https://github.com/katzenpost/docs/blob/master/mixnet_academy/syllabus.rst)
 
 
